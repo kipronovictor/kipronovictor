@@ -1,4 +1,4 @@
-Kiprono Victor
+
 👋 Hi there! I'm Kiprono Victor, a passionate Data Scientist and Machine Learning Engineer with a strong foundation in data-driven decision-making and AI model development. I thrive on solving complex problems by leveraging data and advanced machine learning techniques.
 
 💼 About Me:
