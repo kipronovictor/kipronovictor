@@ -43,4 +43,5 @@ Working on a personal project involving real-time data streaming with Apache Kaf
 🌐 Connect with Me:
 
 LinkedIn: Kiprono Victor
+
 Email: kipronovictor6177@gmail.com
