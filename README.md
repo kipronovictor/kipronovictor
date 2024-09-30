@@ -24,17 +24,23 @@ DevOps: Docker, Kubernetes, CI/CD pipelines
 Developed an advanced time-series forecasting model that helped a retail company predict sales and manage inventory effectively, resulting in a 15% reduction in stockouts.
 
 3. Image Classification Using CNN
+   
 Created a convolutional neural network model that classifies medical images with 98% accuracy, helping healthcare professionals in diagnostic imaging.
 
 4. Customer Churn Prediction
+   
 Built a machine learning model to predict customer churn for a telecom company, allowing for targeted retention campaigns and reducing churn by 12%.
 
 5. Sentiment Analysis on Social Media
+   
 Analyzed social media sentiment using natural language processing (NLP) techniques to understand customer opinions on a new product launch, leading to actionable marketing insights.
 
 🎯 What I’m Focusing on Now:
+
 Enhancing my knowledge of reinforcement learning and generative AI models.
 Working on a personal project involving real-time data streaming with Apache Kafka and machine learning model deployment.
+
 🌐 Connect with Me:
+
 LinkedIn: Kiprono Victor
 Email: kipronovictor6177@gmail.com
